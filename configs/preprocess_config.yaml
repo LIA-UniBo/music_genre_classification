@@ -1,0 +1,9 @@
+original_sample_rate: 44000
+unit_length_ms: 3000
+downsample_rate: 16000
+melspectogram:
+  n_mels: 128
+  hop_length: 512
+train_set_size: 0.7
+val_set_size: 0.15
+random_state: 420
